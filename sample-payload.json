@@ -1,0 +1,12 @@
+{
+  "s1_pct": 72,
+  "s2_pct": 68,
+  "dht_temp": 25.6,
+  "dht_humidity": 94.0,
+  "bmp_pressure": 978.4,
+  "rain_detected": 1,
+  "vibration": 0.62,
+  "magnitude": 1.38,
+  "pitch": 4.2,
+  "roll": -3.1
+}

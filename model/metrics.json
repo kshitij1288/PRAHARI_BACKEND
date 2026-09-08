@@ -1,0 +1,5 @@
+{
+  "prototype_accuracy": 0.8475,
+  "dataset_rows": 6000,
+  "warning": "Synthetic/prototype sensor training data; do not present this accuracy as field validation."
+}

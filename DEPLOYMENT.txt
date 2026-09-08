@@ -1,0 +1,9 @@
+1. Upload this folder to Hostinger Node.js application.
+2. Set startup file to server.js.
+3. npm install / install dependencies.
+4. Set PORT from Hostinger if required.
+5. Point api.yourdomain.com to the Node app.
+6. Keep your existing frontend.
+7. Frontend API base URL = https://api.yourdomain.com
+8. ESP32 endpoint = https://api.yourdomain.com/data
+9. Enable HTTPS.

@@ -1,0 +1,7 @@
+date,district,location,event,rainfall_mm_24h,landslide_event,case_risk,source_note
+2024-07-29,Wayanad,Mundakkai-Chooralmala,Pre-event heavy rainfall / saturated conditions,142,1,High,IMD reports >142 mm in 24h (0830 29 Jul to 0830 30 Jul)
+2024-07-30,Wayanad,Mundakkai-Chooralmala,Major debris-flow event,142,1,HIGH,GSI FIR: event around 01:00 on 30 Jul; extremely rapid flow; approx 7 km runout
+2019-08-08,Wayanad,Puthumala,Major landslide,,1,HIGH,KSDMA PDNA identifies Puthumala 2019 as a notable historical landslide
+2007-07-01,Wayanad,Valamthode,Major landslide,,1,HIGH,KSDMA PDNA identifies Valamthode 2007 as a notable historical landslide
+1992-07-01,Wayanad,Padinjarethara / Kappikalam,Debris flow,,1,HIGH,KSDMA PDNA identifies Kappikalam debris flow in 1992
+1984-07-01,Wayanad,Mundakkai,Debris flow,,1,HIGH,KSDMA PDNA identifies Mundakkai debris flow in 1984
