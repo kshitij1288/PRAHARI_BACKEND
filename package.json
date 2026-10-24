@@ -1,10 +1,14 @@
 {
-  "name": "prahari-wayanad-backend",
-  "version": "2.0.0",
+  "name": "prahari-api",
+  "version": "1.1.0",
   "private": true,
+  "description": "PRAHARI live ESP32 telemetry API with optional MSG91 SMS alerts",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
   },
   "dependencies": {
     "cors": "^2.8.5",
